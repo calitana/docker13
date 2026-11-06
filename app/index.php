@@ -1,5 +1,5 @@
 <?php
-[I// Define el nombre del servicio Compose que funciona como host de MariaDB.
+// Define el nombre del servicio Compose que funciona como host de MariaDB.
 $dbHost = 'db';
 // Define el usuario creado por las variables de entorno del servicio db.
 $dbUser = 'cloud_user';
